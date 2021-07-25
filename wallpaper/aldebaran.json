@@ -1,0 +1,216 @@
+{
+  "Ads": [
+    {
+      "select_ads": "ADMOB",
+      "select_backup_ads": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "admob_interid": "ca-app-pub-3940256099942544/1033173712",
+      "admob_nativeid": "ca-app-pub-3940256099942544/2247696110",
+      "admob_openid": "ca-app-pub-3940256099942544/3419835294",
+      "interval": 5,
+      "startappid": "1234556",
+      "fan_inter": "",
+      "fan_banner_native": "",
+      "mopub_banner": "",
+      "mopub_inter": "",
+      "applovin_banner": "",
+      "applovin_inter": "",
+      "packagename": "com.wallpaper.ikatancinta"
+    }
+  ],
+  "More":
+  [
+    {
+      "id":1,
+      "title":"",
+      "image":"",
+      "link":""
+    },
+    {
+      "id":2,
+      "title":"",
+      "image":"",
+      "link":""
+    },
+    {
+      "id":3,
+      "title":"",
+      "image":"",
+      "link":""
+    }
+  ],
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "",
+      "image": ""
+
+    },
+    {
+      "id": 2,
+      "name_category": "",
+      "image": ""
+
+    },
+    {
+      "id": 3,
+      "name_category": "",
+      "image": ""
+
+    }
+  ],
+
+  "Data":
+  [
+    {
+      "id":1,
+      "name_category": "",
+      "title":"",
+      "image":"https://i.pinimg.com/236x/f8/dc/b8/f8dcb8d765a9d3dc43aef33489321035.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "",
+      "title": "",
+      "image": "https://i.pinimg.com/236x/59/78/91/5978918174677d275ff6118ffd8ee98e.jpg"
+    },
+    {
+      "id":3,
+      "name_category": "",
+      "title":"",
+      "image":"https://i.pinimg.com/236x/f0/4f/40/f04f4025e07f06e7b8c42a20382704bd.jpg"
+    },
+    {
+      "id":4,
+      "name_category": "",
+      "title":"",
+      "image":"https://i.pinimg.com/236x/41/32/18/413218273163d61d3ba604e38f15f13a.jpg"
+    }
+  ,
+    {
+      "id":5,
+      "name_category": "",
+      "title":"Dog",
+      "image":"https://i.pinimg.com/236x/db/86/71/db867102496422887dedda14a35936e2.jpg"
+    },
+    {
+      "id":6,
+      "name_category": "",
+      "title":"",
+      "image":"https://i.pinimg.com/236x/b5/b9/76/b5b9760ca4438981a648d2f93f8fe762.jpg"
+    },
+    {
+      "id":7,
+      "name_category": "",
+      "title":"",
+      "image":"https://i.pinimg.com/236x/bd/a7/1a/bda71a96ba600b3f2d67bd94cb33f94c.jpg"
+    },
+    {
+      "id": 8,
+      "name_category": "",
+      "title": "",
+      "image": "https://i.pinimg.com/236x/f0/3b/4b/f03b4bc03c88870d772295b0749df1ed.jpg"
+    },
+    {
+      "id":9,
+      "name_category": "",
+      "title":"",
+      "image":"https://i.pinimg.com/236x/fc/35/8d/fc358d46f9179657e374db260629d723.jpg"
+    },
+    {
+      "id":10,
+      "name_category": "",
+      "title":"",
+      "image":"https://i.pinimg.com/236x/84/18/4b/84184bacaaa969b9500f7888c5609d17.jpg"
+    }
+  ,
+    {
+      "id":11,
+      "name_category": "",
+      "title":"Dog",
+      "image":"https://i.pinimg.com/236x/bb/45/53/bb45538ea7069b4a082424c279122c4f.jpg"
+    },
+    {
+      "id":12,
+      "name_category": "",
+      "title":"",
+      "image":"https://i.pinimg.com/236x/fd/cb/18/fdcb18d7c68e8e195f97219beed33e6d.jpg"
+    },
+    {
+      "id":13,
+      "name_category": "",
+      "title":"",
+      "image":"https://i.pinimg.com/236x/35/09/3d/35093dc583c80d976623223d9c3f66bb.jpg"
+    },
+    {
+      "id": 14,
+      "name_category": "",
+      "title": "",
+      "image": "https://i.pinimg.com/236x/48/b0/bd/48b0bd29ebce6b442153334bda6c63a5.jpg"
+    },
+    {
+      "id":15,
+      "name_category": "",
+      "title":"",
+      "image":"https://i.pinimg.com/236x/26/64/65/26646570d3a1c9798c02bc4e21fedb00.jpg"
+    },
+    {
+      "id":16,
+      "name_category": "",
+      "title":"",
+      "image":"https://i.pinimg.com/236x/26/64/65/26646570d3a1c9798c02bc4e21fedb00.jpg"
+    }
+  ,
+    {
+      "id":17,
+      "name_category": "",
+      "title":"Dog",
+      "image":"https://i.pinimg.com/236x/00/2e/6d/002e6df894ac50abd676a4efa17c7428.jpg"
+    },
+    {
+      "id":18,
+      "name_category": "",
+      "title":"",
+      "image":"https://i.pinimg.com/236x/12/76/81/1276815ffa7e1742d0b7a1191f4654da.jpg"
+    },
+    {
+      "id":19,
+      "name_category": "",
+      "title":"",
+      "image":"https://i.pinimg.com/236x/8e/71/1a/8e711a2b196b0a4168601cf3dfb01082.jpg"
+    },
+    {
+      "id": 20,
+      "name_category": "",
+      "title": "",
+      "image": "https://i.pinimg.com/236x/6b/9e/ad/6b9ead6dc4cc8f08d756a0c9e9d64223.jpg"
+    },
+    {
+      "id":21,
+      "name_category": "",
+      "title":"",
+      "image":"https://i.pinimg.com/236x/33/3d/1a/333d1afa472795c9ede08982624c8cf1.jpg"
+    },
+    {
+      "id":22,
+      "name_category": "",
+      "title":"",
+      "image":"https://i.pinimg.com/236x/8f/e6/41/8fe641b61cdaf2e5d3514b79e0902aae.jpg"
+    }
+  ,
+    {
+      "id":23,
+      "name_category": "",
+      "title":"Dog",
+      "image":"https://i.pinimg.com/236x/20/a0/78/20a07845382caec97441e3dcc9aeadf4.jpg"
+    },
+    {
+      "id":24,
+      "name_category": "",
+      "title":"",
+      "image":"https://i.pinimg.com/236x/41/22/b6/4122b67b065e128a41475f3c3c018905.jpg"
+    }
+  ]
+}

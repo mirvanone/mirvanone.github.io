@@ -7,7 +7,7 @@
       "link_redirect": "https://",
       "admob_interid": "ca-app-pub-3940256099942544/1033173712",
       "admob_nativeid": "ca-app-pub-3940256099942544/2247696110",
-      "admob_openid": "ca-app-pub-3940256099942544/3419835294",
+      "admob_openid": "ca-app-pub-3940256099942544/1033173712",
       "interval": 5,
       "startappid": "1234556",
       "fan_inter": "",
@@ -20,49 +20,6 @@
     }
   ],
   "More":
-  [
-    {
-      "id":1,
-      "title":"",
-      "image":"",
-      "link":""
-    },
-    {
-      "id":2,
-      "title":"",
-      "image":"",
-      "link":""
-    },
-    {
-      "id":3,
-      "title":"",
-      "image":"",
-      "link":""
-    }
-  ],
-
-  "Categories": [
-    {
-      "id": 1,
-      "name_category": "",
-      "image": ""
-
-    },
-    {
-      "id": 2,
-      "name_category": "",
-      "image": ""
-
-    },
-    {
-      "id": 3,
-      "name_category": "",
-      "image": ""
-
-    }
-  ],
-
-  "Data":
   [
     {
       "id":1,

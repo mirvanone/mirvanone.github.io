@@ -23,41 +23,41 @@
   [
     {
       "id":1,
-      "title":"Ludo King",
-      "image":"https://lh3.googleusercontent.com/GIa9Ek1a4hyqqulStVT1RC7Mus0K5nOcCaeDpt9sJEekq6lnrSIK7LDrpH0OHlFgwog=s180-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.ludo.king"
+      "title":"",
+      "image":"",
+      "link":""
     },
     {
       "id":2,
-      "title":"Homescapes",
-      "image":"https://lh3.googleusercontent.com/-mPOu6rWotI9ZLDVnvE3ZqKdTgEfaQaqD5SArpkYwlNJM0fOhJLRfJPpPWACHLezwIQ=s180-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.playrix.homescapes"
+      "title":"",
+      "image":"",
+      "link":""
     },
     {
       "id":3,
-      "title":"Minecraft",
-      "image":"https://lh3.googleusercontent.com/VSwHQjcAttxsLE47RuS4PqpC4LT7lCoSjE7Hx5AW_yCxtDvcnsHHvm5CTuL5BPN-uRTP=s180-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.mojang.minecraftpe"
+      "title":"",
+      "image":"",
+      "link":""
     }
   ],
 
   "Categories": [
     {
       "id": 1,
-      "name_category": "Nature",
-      "image": "https://i.pinimg.com/564x/6c/b4/4d/6cb44d856850800b2b97858ac337e47f.jpg"
+      "name_category": "Aldebaran",
+      "image": "https://i.pinimg.com/236x/72/29/f2/7229f22eb17a8bface9b2ddac1258924.jpg"
 
     },
     {
       "id": 2,
-      "name_category": "Animal",
-      "image": "http://www.123mobilewallpapers.com/wp-content/uploads/2015/09/black_cat_cute_wallpaper.jpg"
+      "name_category": "Andin",
+      "image": "https://i.pinimg.com/236x/00/c1/71/00c171f548a2b87081b4d4bb44cbbf6e.jpg"
 
     },
     {
       "id": 3,
-      "name_category": "Car",
-      "image": "file:///android_asset/image/car.jpg"
+      "name_category": "Reyna",
+      "image": "https://i.pinimg.com/236x/40/e4/2c/40e42ca8d6d3db4af381e0648918574d.jpg"
 
     }
   ],
@@ -68,7 +68,7 @@
       "id":1,
       "name_category": "",
       "title":"",
-      "image":"https://i.pinimg.com/236x/f8/dc/b8/f8dcb8d765a9d3dc43aef33489321035.jpg"
+      "image":"https://i.pinimg.com/236x/ee/d6/5c/eed65cbe5c2c512d9b74d181136783ed.jpg"
     },
     {
       "id": 2,
@@ -208,6 +208,598 @@
     },
     {
       "id":24,
+      "name_category": "",
+      "title":"",
+      "image":"https://i.pinimg.com/236x/41/22/b6/4122b67b065e128a41475f3c3c018905.jpg"
+    },
+    {
+      "id":25,
+      "name_category": "Reyna",
+      "title":"",
+      "image":"https://i.pinimg.com/236x/86/2a/1f/862a1feda503d9614d5e4dc647b864c0.jpg"
+    },
+    {
+      "id": 26,
+      "name_category": "Reyna",
+      "title": "",
+      "image": "https://i.pinimg.com/236x/40/e4/2c/40e42ca8d6d3db4af381e0648918574d.jpg"
+    },
+    {
+      "id":27,
+      "name_category": "Andin",
+      "title":"",
+      "image":"https://i.pinimg.com/236x/3e/4e/34/3e4e345ea212bbd488dca668c0c4f8be.jpg"
+    },
+    {
+      "id":28,
+      "name_category": "",
+      "title":"",
+      "image":"https://i.pinimg.com/236x/41/32/18/413218273163d61d3ba604e38f15f13a.jpg"
+    }
+  ,
+    {
+      "id":29,
+      "name_category": "",
+      "title":"",
+      "image":"https://i.pinimg.com/236x/db/86/71/db867102496422887dedda14a35936e2.jpg"
+    },
+    {
+      "id":30,
+      "name_category": "",
+      "title":"",
+      "image":"https://i.pinimg.com/236x/b5/b9/76/b5b9760ca4438981a648d2f93f8fe762.jpg"
+    },
+    {
+      "id":31,
+      "name_category": "",
+      "title":"",
+      "image":"https://i.pinimg.com/236x/bd/a7/1a/bda71a96ba600b3f2d67bd94cb33f94c.jpg"
+    },
+    {
+      "id": 32,
+      "name_category": "",
+      "title": "",
+      "image": "https://i.pinimg.com/236x/f0/3b/4b/f03b4bc03c88870d772295b0749df1ed.jpg"
+    },
+    {
+      "id":33,
+      "name_category": "",
+      "title":"",
+      "image":"https://i.pinimg.com/236x/fc/35/8d/fc358d46f9179657e374db260629d723.jpg"
+    },
+    {
+      "id":34,
+      "name_category": "",
+      "title":"",
+      "image":"https://i.pinimg.com/236x/84/18/4b/84184bacaaa969b9500f7888c5609d17.jpg"
+    }
+  ,
+    {
+      "id":35,
+      "name_category": "",
+      "title":"",
+      "image":"https://i.pinimg.com/236x/bb/45/53/bb45538ea7069b4a082424c279122c4f.jpg"
+    },
+    {
+      "id":36,
+      "name_category": "",
+      "title":"",
+      "image":"https://i.pinimg.com/236x/fd/cb/18/fdcb18d7c68e8e195f97219beed33e6d.jpg"
+    },
+    {
+      "id":37,
+      "name_category": "",
+      "title":"",
+      "image":"https://i.pinimg.com/236x/35/09/3d/35093dc583c80d976623223d9c3f66bb.jpg"
+    },
+    {
+      "id": 38,
+      "name_category": "",
+      "title": "",
+      "image": "https://i.pinimg.com/236x/48/b0/bd/48b0bd29ebce6b442153334bda6c63a5.jpg"
+    },
+    {
+      "id":39,
+      "name_category": "",
+      "title":"",
+      "image":"https://i.pinimg.com/236x/26/64/65/26646570d3a1c9798c02bc4e21fedb00.jpg"
+    },
+    {
+      "id":40,
+      "name_category": "",
+      "title":"",
+      "image":"https://i.pinimg.com/236x/26/64/65/26646570d3a1c9798c02bc4e21fedb00.jpg"
+    }
+  ,
+    {
+      "id":41,
+      "name_category": "",
+      "title":"",
+      "image":"https://i.pinimg.com/236x/00/2e/6d/002e6df894ac50abd676a4efa17c7428.jpg"
+    },
+    {
+      "id":42,
+      "name_category": "",
+      "title":"",
+      "image":"https://i.pinimg.com/236x/12/76/81/1276815ffa7e1742d0b7a1191f4654da.jpg"
+    },
+    {
+      "id":43,
+      "name_category": "",
+      "title":"",
+      "image":"https://i.pinimg.com/236x/8e/71/1a/8e711a2b196b0a4168601cf3dfb01082.jpg"
+    },
+    {
+      "id": 44,
+      "name_category": "",
+      "title": "",
+      "image": "https://i.pinimg.com/236x/6b/9e/ad/6b9ead6dc4cc8f08d756a0c9e9d64223.jpg"
+    },
+    {
+      "id":45,
+      "name_category": "",
+      "title":"",
+      "image":"https://i.pinimg.com/236x/33/3d/1a/333d1afa472795c9ede08982624c8cf1.jpg"
+    },
+    {
+      "id":46,
+      "name_category": "",
+      "title":"",
+      "image":"https://i.pinimg.com/236x/8f/e6/41/8fe641b61cdaf2e5d3514b79e0902aae.jpg"
+    }
+  ,
+    {
+      "id":47,
+      "name_category": "",
+      "title":"",
+      "image":"https://i.pinimg.com/236x/20/a0/78/20a07845382caec97441e3dcc9aeadf4.jpg"
+    },
+    {
+      "id":48,
+      "name_category": "",
+      "title":"",
+      "image":"https://i.pinimg.com/236x/41/22/b6/4122b67b065e128a41475f3c3c018905.jpg"
+    },
+    {
+      "id":49,
+      "name_category": "",
+      "title":"",
+      "image":"https://i.pinimg.com/236x/ee/d6/5c/eed65cbe5c2c512d9b74d181136783ed.jpg"
+    },
+    {
+      "id": 50,
+      "name_category": "",
+      "title": "",
+      "image": "https://i.pinimg.com/236x/59/78/91/5978918174677d275ff6118ffd8ee98e.jpg"
+    },
+    {
+      "id":51,
+      "name_category": "",
+      "title":"",
+      "image":"https://i.pinimg.com/236x/f0/4f/40/f04f4025e07f06e7b8c42a20382704bd.jpg"
+    },
+    {
+      "id":52,
+      "name_category": "",
+      "title":"",
+      "image":"https://i.pinimg.com/236x/41/32/18/413218273163d61d3ba604e38f15f13a.jpg"
+    }
+  ,
+    {
+      "id":53,
+      "name_category": "",
+      "title":"",
+      "image":"https://i.pinimg.com/236x/db/86/71/db867102496422887dedda14a35936e2.jpg"
+    },
+    {
+      "id":54,
+      "name_category": "",
+      "title":"",
+      "image":"https://i.pinimg.com/236x/b5/b9/76/b5b9760ca4438981a648d2f93f8fe762.jpg"
+    },
+    {
+      "id":55,
+      "name_category": "",
+      "title":"",
+      "image":"https://i.pinimg.com/236x/bd/a7/1a/bda71a96ba600b3f2d67bd94cb33f94c.jpg"
+    },
+    {
+      "id": 56,
+      "name_category": "",
+      "title": "",
+      "image": "https://i.pinimg.com/236x/f0/3b/4b/f03b4bc03c88870d772295b0749df1ed.jpg"
+    },
+    {
+      "id":57,
+      "name_category": "",
+      "title":"",
+      "image":"https://i.pinimg.com/236x/fc/35/8d/fc358d46f9179657e374db260629d723.jpg"
+    },
+    {
+      "id":58,
+      "name_category": "",
+      "title":"",
+      "image":"https://i.pinimg.com/236x/84/18/4b/84184bacaaa969b9500f7888c5609d17.jpg"
+    }
+  ,
+    {
+      "id":59,
+      "name_category": "",
+      "title":"",
+      "image":"https://i.pinimg.com/236x/bb/45/53/bb45538ea7069b4a082424c279122c4f.jpg"
+    },
+    {
+      "id":60,
+      "name_category": "",
+      "title":"",
+      "image":"https://i.pinimg.com/236x/fd/cb/18/fdcb18d7c68e8e195f97219beed33e6d.jpg"
+    },
+    {
+      "id":61,
+      "name_category": "",
+      "title":"",
+      "image":"https://i.pinimg.com/236x/35/09/3d/35093dc583c80d976623223d9c3f66bb.jpg"
+    },
+    {
+      "id": 62,
+      "name_category": "",
+      "title": "",
+      "image": "https://i.pinimg.com/236x/48/b0/bd/48b0bd29ebce6b442153334bda6c63a5.jpg"
+    },
+    {
+      "id":63,
+      "name_category": "",
+      "title":"",
+      "image":"https://i.pinimg.com/236x/26/64/65/26646570d3a1c9798c02bc4e21fedb00.jpg"
+    },
+    {
+      "id":64,
+      "name_category": "",
+      "title":"",
+      "image":"https://i.pinimg.com/236x/26/64/65/26646570d3a1c9798c02bc4e21fedb00.jpg"
+    }
+  ,
+    {
+      "id":65,
+      "name_category": "",
+      "title":"",
+      "image":"https://i.pinimg.com/236x/00/2e/6d/002e6df894ac50abd676a4efa17c7428.jpg"
+    },
+    {
+      "id":66,
+      "name_category": "",
+      "title":"",
+      "image":"https://i.pinimg.com/236x/12/76/81/1276815ffa7e1742d0b7a1191f4654da.jpg"
+    },
+    {
+      "id":67,
+      "name_category": "",
+      "title":"",
+      "image":"https://i.pinimg.com/236x/8e/71/1a/8e711a2b196b0a4168601cf3dfb01082.jpg"
+    },
+    {
+      "id": 68,
+      "name_category": "",
+      "title": "",
+      "image": "https://i.pinimg.com/236x/6b/9e/ad/6b9ead6dc4cc8f08d756a0c9e9d64223.jpg"
+    },
+    {
+      "id":69,
+      "name_category": "",
+      "title":"",
+      "image":"https://i.pinimg.com/236x/33/3d/1a/333d1afa472795c9ede08982624c8cf1.jpg"
+    },
+    {
+      "id":70,
+      "name_category": "",
+      "title":"",
+      "image":"https://i.pinimg.com/236x/8f/e6/41/8fe641b61cdaf2e5d3514b79e0902aae.jpg"
+    }
+  ,
+    {
+      "id":71,
+      "name_category": "",
+      "title":"",
+      "image":"https://i.pinimg.com/236x/20/a0/78/20a07845382caec97441e3dcc9aeadf4.jpg"
+    },
+    {
+      "id":72,
+      "name_category": "",
+      "title":"",
+      "image":"https://i.pinimg.com/236x/41/22/b6/4122b67b065e128a41475f3c3c018905.jpg"
+    },
+    {
+      "id":73,
+      "name_category": "",
+      "title":"",
+      "image":"https://i.pinimg.com/236x/ee/d6/5c/eed65cbe5c2c512d9b74d181136783ed.jpg"
+    },
+    {
+      "id": 74,
+      "name_category": "",
+      "title": "",
+      "image": "https://i.pinimg.com/236x/59/78/91/5978918174677d275ff6118ffd8ee98e.jpg"
+    },
+    {
+      "id":75,
+      "name_category": "",
+      "title":"",
+      "image":"https://i.pinimg.com/236x/f0/4f/40/f04f4025e07f06e7b8c42a20382704bd.jpg"
+    },
+    {
+      "id":76,
+      "name_category": "",
+      "title":"",
+      "image":"https://i.pinimg.com/236x/41/32/18/413218273163d61d3ba604e38f15f13a.jpg"
+    }
+  ,
+    {
+      "id":77,
+      "name_category": "",
+      "title":"",
+      "image":"https://i.pinimg.com/236x/db/86/71/db867102496422887dedda14a35936e2.jpg"
+    },
+    {
+      "id":78,
+      "name_category": "",
+      "title":"",
+      "image":"https://i.pinimg.com/236x/b5/b9/76/b5b9760ca4438981a648d2f93f8fe762.jpg"
+    },
+    {
+      "id":79,
+      "name_category": "",
+      "title":"",
+      "image":"https://i.pinimg.com/236x/bd/a7/1a/bda71a96ba600b3f2d67bd94cb33f94c.jpg"
+    },
+    {
+      "id": 80,
+      "name_category": "",
+      "title": "",
+      "image": "https://i.pinimg.com/236x/f0/3b/4b/f03b4bc03c88870d772295b0749df1ed.jpg"
+    },
+    {
+      "id":81,
+      "name_category": "",
+      "title":"",
+      "image":"https://i.pinimg.com/236x/fc/35/8d/fc358d46f9179657e374db260629d723.jpg"
+    },
+    {
+      "id":82,
+      "name_category": "",
+      "title":"",
+      "image":"https://i.pinimg.com/236x/84/18/4b/84184bacaaa969b9500f7888c5609d17.jpg"
+    }
+  ,
+    {
+      "id":83,
+      "name_category": "",
+      "title":"",
+      "image":"https://i.pinimg.com/236x/bb/45/53/bb45538ea7069b4a082424c279122c4f.jpg"
+    },
+    {
+      "id":84,
+      "name_category": "",
+      "title":"",
+      "image":"https://i.pinimg.com/236x/fd/cb/18/fdcb18d7c68e8e195f97219beed33e6d.jpg"
+    },
+    {
+      "id":85,
+      "name_category": "",
+      "title":"",
+      "image":"https://i.pinimg.com/236x/35/09/3d/35093dc583c80d976623223d9c3f66bb.jpg"
+    },
+    {
+      "id": 86,
+      "name_category": "",
+      "title": "",
+      "image": "https://i.pinimg.com/236x/48/b0/bd/48b0bd29ebce6b442153334bda6c63a5.jpg"
+    },
+    {
+      "id":87,
+      "name_category": "",
+      "title":"",
+      "image":"https://i.pinimg.com/236x/26/64/65/26646570d3a1c9798c02bc4e21fedb00.jpg"
+    },
+    {
+      "id":88,
+      "name_category": "",
+      "title":"",
+      "image":"https://i.pinimg.com/236x/26/64/65/26646570d3a1c9798c02bc4e21fedb00.jpg"
+    }
+  ,
+    {
+      "id":89,
+      "name_category": "",
+      "title":"",
+      "image":"https://i.pinimg.com/236x/00/2e/6d/002e6df894ac50abd676a4efa17c7428.jpg"
+    },
+    {
+      "id":90,
+      "name_category": "",
+      "title":"",
+      "image":"https://i.pinimg.com/236x/12/76/81/1276815ffa7e1742d0b7a1191f4654da.jpg"
+    },
+    {
+      "id":91,
+      "name_category": "",
+      "title":"",
+      "image":"https://i.pinimg.com/236x/8e/71/1a/8e711a2b196b0a4168601cf3dfb01082.jpg"
+    },
+    {
+      "id": 92,
+      "name_category": "",
+      "title": "",
+      "image": "https://i.pinimg.com/236x/6b/9e/ad/6b9ead6dc4cc8f08d756a0c9e9d64223.jpg"
+    },
+    {
+      "id":93,
+      "name_category": "",
+      "title":"",
+      "image":"https://i.pinimg.com/236x/33/3d/1a/333d1afa472795c9ede08982624c8cf1.jpg"
+    },
+    {
+      "id":94,
+      "name_category": "",
+      "title":"",
+      "image":"https://i.pinimg.com/236x/8f/e6/41/8fe641b61cdaf2e5d3514b79e0902aae.jpg"
+    }
+  ,
+    {
+      "id":95,
+      "name_category": "",
+      "title":"",
+      "image":"https://i.pinimg.com/236x/20/a0/78/20a07845382caec97441e3dcc9aeadf4.jpg"
+    },
+    {
+      "id":96,
+      "name_category": "",
+      "title":"",
+      "image":"https://i.pinimg.com/236x/41/22/b6/4122b67b065e128a41475f3c3c018905.jpg"
+    },
+    {
+      "id":97,
+      "name_category": "",
+      "title":"",
+      "image":"https://i.pinimg.com/236x/ee/d6/5c/eed65cbe5c2c512d9b74d181136783ed.jpg"
+    },
+    {
+      "id": 98,
+      "name_category": "",
+      "title": "",
+      "image": "https://i.pinimg.com/236x/59/78/91/5978918174677d275ff6118ffd8ee98e.jpg"
+    },
+    {
+      "id":99,
+      "name_category": "",
+      "title":"",
+      "image":"https://i.pinimg.com/236x/f0/4f/40/f04f4025e07f06e7b8c42a20382704bd.jpg"
+    },
+    {
+      "id":100,
+      "name_category": "",
+      "title":"",
+      "image":"https://i.pinimg.com/236x/41/32/18/413218273163d61d3ba604e38f15f13a.jpg"
+    }
+  ,
+    {
+      "id":101,
+      "name_category": "",
+      "title":"",
+      "image":"https://i.pinimg.com/236x/db/86/71/db867102496422887dedda14a35936e2.jpg"
+    },
+    {
+      "id":102,
+      "name_category": "",
+      "title":"",
+      "image":"https://i.pinimg.com/236x/b5/b9/76/b5b9760ca4438981a648d2f93f8fe762.jpg"
+    },
+    {
+      "id":103,
+      "name_category": "",
+      "title":"",
+      "image":"https://i.pinimg.com/236x/bd/a7/1a/bda71a96ba600b3f2d67bd94cb33f94c.jpg"
+    },
+    {
+      "id": 104,
+      "name_category": "",
+      "title": "",
+      "image": "https://i.pinimg.com/236x/f0/3b/4b/f03b4bc03c88870d772295b0749df1ed.jpg"
+    },
+    {
+      "id":105,
+      "name_category": "",
+      "title":"",
+      "image":"https://i.pinimg.com/236x/fc/35/8d/fc358d46f9179657e374db260629d723.jpg"
+    },
+    {
+      "id":106,
+      "name_category": "",
+      "title":"",
+      "image":"https://i.pinimg.com/236x/84/18/4b/84184bacaaa969b9500f7888c5609d17.jpg"
+    }
+  ,
+    {
+      "id":107,
+      "name_category": "",
+      "title":"",
+      "image":"https://i.pinimg.com/236x/bb/45/53/bb45538ea7069b4a082424c279122c4f.jpg"
+    },
+    {
+      "id":108,
+      "name_category": "",
+      "title":"",
+      "image":"https://i.pinimg.com/236x/fd/cb/18/fdcb18d7c68e8e195f97219beed33e6d.jpg"
+    },
+    {
+      "id":109,
+      "name_category": "",
+      "title":"",
+      "image":"https://i.pinimg.com/236x/35/09/3d/35093dc583c80d976623223d9c3f66bb.jpg"
+    },
+    {
+      "id": 110,
+      "name_category": "",
+      "title": "",
+      "image": "https://i.pinimg.com/236x/48/b0/bd/48b0bd29ebce6b442153334bda6c63a5.jpg"
+    },
+    {
+      "id":111,
+      "name_category": "",
+      "title":"",
+      "image":"https://i.pinimg.com/236x/26/64/65/26646570d3a1c9798c02bc4e21fedb00.jpg"
+    },
+    {
+      "id":112,
+      "name_category": "",
+      "title":"",
+      "image":"https://i.pinimg.com/236x/26/64/65/26646570d3a1c9798c02bc4e21fedb00.jpg"
+    }
+  ,
+    {
+      "id":113,
+      "name_category": "",
+      "title":"",
+      "image":"https://i.pinimg.com/236x/00/2e/6d/002e6df894ac50abd676a4efa17c7428.jpg"
+    },
+    {
+      "id":114,
+      "name_category": "",
+      "title":"",
+      "image":"https://i.pinimg.com/236x/12/76/81/1276815ffa7e1742d0b7a1191f4654da.jpg"
+    },
+    {
+      "id":115,
+      "name_category": "",
+      "title":"",
+      "image":"https://i.pinimg.com/236x/8e/71/1a/8e711a2b196b0a4168601cf3dfb01082.jpg"
+    },
+    {
+      "id": 116,
+      "name_category": "",
+      "title": "",
+      "image": "https://i.pinimg.com/236x/6b/9e/ad/6b9ead6dc4cc8f08d756a0c9e9d64223.jpg"
+    },
+    {
+      "id":117,
+      "name_category": "",
+      "title":"",
+      "image":"https://i.pinimg.com/236x/33/3d/1a/333d1afa472795c9ede08982624c8cf1.jpg"
+    },
+    {
+      "id":118,
+      "name_category": "",
+      "title":"",
+      "image":"https://i.pinimg.com/236x/8f/e6/41/8fe641b61cdaf2e5d3514b79e0902aae.jpg"
+    }
+  ,
+    {
+      "id":119,
+      "name_category": "",
+      "title":"",
+      "image":"https://i.pinimg.com/236x/20/a0/78/20a07845382caec97441e3dcc9aeadf4.jpg"
+    },
+    {
+      "id":120,
       "name_category": "",
       "title":"",
       "image":"https://i.pinimg.com/236x/41/22/b6/4122b67b065e128a41475f3c3c018905.jpg"

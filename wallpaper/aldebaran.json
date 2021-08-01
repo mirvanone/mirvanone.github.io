@@ -44,18 +44,18 @@
   "Categories": [
     {
       "id": 1,
-      "name_category": "Aldebaran",
-      "image": "https://i.pinimg.com/236x/72/29/f2/7229f22eb17a8bface9b2ddac1258924.jpg"
+      "name_category": "",
+      "image": ""
     },
     {
       "id": 2,
-      "name_category": "Andin",
-      "image": "https://i.pinimg.com/236x/00/c1/71/00c171f548a2b87081b4d4bb44cbbf6e.jpg"
+      "name_category": "",
+      "image": ""
     },
     {
       "id": 3,
-      "name_category": "Reyna",
-      "image": "https://i.pinimg.com/236x/40/e4/2c/40e42ca8d6d3db4af381e0648918574d.jpg"
+      "name_category": "",
+      "image": ""
     }
   ],
 

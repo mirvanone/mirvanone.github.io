@@ -19,46 +19,45 @@
       "packagename": "com.wallpaper.ikatancinta"
     }
   ],
-  
-  "More":
+"More":
   [
     {
       "id":1,
-      "title":"",
-      "image":"",
-      "link":""
+      "title":"Ludo King",
+      "image":"https://lh3.googleusercontent.com/GIa9Ek1a4hyqqulStVT1RC7Mus0K5nOcCaeDpt9sJEekq6lnrSIK7LDrpH0OHlFgwog=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.ludo.king"
     },
     {
       "id":2,
-      "title":"",
-      "image":"",
-      "link":""
+      "title":"Homescapes",
+      "image":"https://lh3.googleusercontent.com/-mPOu6rWotI9ZLDVnvE3ZqKdTgEfaQaqD5SArpkYwlNJM0fOhJLRfJPpPWACHLezwIQ=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.playrix.homescapes"
     },
     {
       "id":3,
-      "title":"",
-      "image":"",
-      "link":""
+      "title":"Minecraft",
+      "image":"https://lh3.googleusercontent.com/VSwHQjcAttxsLE47RuS4PqpC4LT7lCoSjE7Hx5AW_yCxtDvcnsHHvm5CTuL5BPN-uRTP=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.mojang.minecraftpe"
     }
   ],
 
   "Categories": [
     {
       "id": 1,
-      "name_category": "",
-      "image": ""
+      "name_category": "Nature",
+      "image": "https://i.pinimg.com/564x/6c/b4/4d/6cb44d856850800b2b97858ac337e47f.jpg"
 
     },
     {
       "id": 2,
-      "name_category": "",
-      "image": ""
+      "name_category": "Animal",
+      "image": "http://www.123mobilewallpapers.com/wp-content/uploads/2015/09/black_cat_cute_wallpaper.jpg"
 
     },
     {
       "id": 3,
-      "name_category": "",
-      "image": ""
+      "name_category": "Car",
+      "image": "file:///android_asset/image/car.jpg"
 
     }
   ],

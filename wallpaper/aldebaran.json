@@ -44,20 +44,20 @@
   "Categories": [
     {
       "id": 1,
-      "name_category": "Aldebaran",
-      "image": "https://i.pinimg.com/236x/72/29/f2/7229f22eb17a8bface9b2ddac1258924.jpg"
+      "name_category": "",
+      "image": ""
 
     },
     {
       "id": 2,
-      "name_category": "Andin",
-      "image": "https://i.pinimg.com/236x/00/c1/71/00c171f548a2b87081b4d4bb44cbbf6e.jpg"
+      "name_category": "",
+      "image": ""
 
     },
     {
       "id": 3,
-      "name_category": "Reyna",
-      "image": "https://i.pinimg.com/236x/40/e4/2c/40e42ca8d6d3db4af381e0648918574d.jpg"
+      "name_category": "",
+      "image": ""
 
     }
   ],
@@ -214,19 +214,19 @@
     },
     {
       "id":25,
-      "name_category": "Reyna",
+      "name_category": "",
       "title":"",
       "image":"https://i.pinimg.com/236x/86/2a/1f/862a1feda503d9614d5e4dc647b864c0.jpg"
     },
     {
       "id": 26,
-      "name_category": "Reyna",
+      "name_category": "",
       "title": "",
       "image": "https://i.pinimg.com/236x/40/e4/2c/40e42ca8d6d3db4af381e0648918574d.jpg"
     },
     {
       "id":27,
-      "name_category": "Andin",
+      "name_category": "",
       "title":"",
       "image":"https://i.pinimg.com/236x/3e/4e/34/3e4e345ea212bbd488dca668c0c4f8be.jpg"
     },

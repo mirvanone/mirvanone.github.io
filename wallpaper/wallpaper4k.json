@@ -64,7 +64,7 @@
 
   "Data":
   [
-    {
+   {
       "id":1,
       "name_category": "",
       "title":"",
@@ -1306,6 +1306,6 @@
       "name_category": "",
       "title":"",
       "image":"https://images.unsplash.com/photo-1519120944692-1a8d8cfc107f?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NzAxfHx3YWxscGFwZXJ8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
-    }
+    } 
   ]
 }

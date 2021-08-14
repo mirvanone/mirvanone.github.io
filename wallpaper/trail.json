@@ -7,16 +7,16 @@
       "link_redirect": "https://",
       "admob_interid": "ca-app-pub-3940256099942544/1033173712",
       "admob_nativeid": "ca-app-pub-3940256099942544/2247696110",
-      "admob_openid": "ca-app-pub-3940256099942544/1033173712",
+      "admob_openid": "ca-app-pub-3940256099942544/3419835294",
       "interval": 5,
-      "startappid": "201669628",
-      "fan_inter": "612492376332507_612493222999089",
-      "fan_banner_native": "612492376332507_612492762999135",
-      "mopub_banner": "b195f8dd8ded45fe847ad89ed1d016da",
-      "mopub_inter": "24534e1901884e398f1253216226017e",
-      "applovin_banner": "db4d5e8718b97d78",
-      "applovin_inter": "518cd97722c60b52",
-      "packagename": "mak.ad.wallpaperalienx"
+      "startappid": "1234556",
+      "fan_inter": "",
+      "fan_banner_native": "",
+      "mopub_banner": "",
+      "mopub_inter": "",
+      "applovin_banner": "",
+      "applovin_inter": "",
+      "packagename": "com.itonkid.hobikitatrail"
     }
   ],
   "More":
@@ -66,40 +66,63 @@
   [
     {
       "id":1,
-      "name_category": "Nature",
-      "title":"Waterfall",
-      "image":"https://i.pinimg.com/564x/a7/43/2d/a7432d11b2a629d1f05162a6c518744f.jpg"
+      "name_category": "",
+      "title":"",
+      "image":"https://i.pinimg.com/236x/eb/b4/a1/ebb4a10d27c7478be8eb81b09bbd2ac8.jpg"
     },
     {
       "id": 2,
-      "name_category": "Nature",
-      "title": "River",
-      "image": "https://i.pinimg.com/564x/6c/b4/4d/6cb44d856850800b2b97858ac337e47f.jpg"
+      "name_category": "",
+      "title": "",
+      "image": "https://i.pinimg.com/236x/46/b3/c5/46b3c5745b8a71afa9ce02c6401036dc.jpg"
     },
     {
       "id":3,
-      "name_category": "Nature",
-      "title":"Mountain",
-      "image":"https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1cd5f075-42da-466b-b00a-8bb7ef66ad32/da9l0sw-5f1c1073-d232-4c10-8385-6176e1d71be2.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvMWNkNWYwNzUtNDJkYS00NjZiLWIwMGEtOGJiN2VmNjZhZDMyXC9kYTlsMHN3LTVmMWMxMDczLWQyMzItNGMxMC04Mzg1LTYxNzZlMWQ3MWJlMi5qcGcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.QqjZ3T5HxGHJ8A3n3lC87BcVcLoXJUZZ1DOWf4MK4Ew"
+      "name_category": "",
+      "title":"",
+      "image":"https://i.pinimg.com/236x/88/2f/76/882f76a1faa9f0e8f21ca155c7df8865.jpg"
     },
     {
       "id":4,
-      "name_category": "Animal",
-      "title":"Cute Cat",
-      "image":"http://www.123mobilewallpapers.com/wp-content/uploads/2015/09/black_cat_cute_wallpaper.jpg"
+      "name_category": "",
+      "title":"",
+      "image":"https://i.pinimg.com/236x/73/37/ca/7337ca84100bb8fe5926ca7f5dca06fc.jpg"
     }
   ,
     {
       "id":5,
-      "name_category": "Animal",
-      "title":"Dog",
-      "image":"https://3diphonewallpaper.com/wp-content/uploads/2018/03/iPhone-Wallpaper-Cute-Puppies-Pictures.jpg"
+      "name_category": "",
+      "title":"",
+      "image":"https://i.pinimg.com/236x/60/11/cc/6011cc3dd69d2c4405805af2f9fd55c2.jpgg"
     },
     {
       "id":6,
-      "name_category": "Car",
-      "title":"Super Car",
-      "image":"file:///android_asset/image/car.jpg"
+      "name_category": "",
+      "title":"",
+      "image":"https://i.pinimg.com/236x/92/0b/f6/920bf6392cb611d804bb0774968aa173.jpgg"
+    },{
+      "id":6,
+      "name_category": "",
+      "title":"",
+      "image":"https://i.pinimg.com/236x/0e/9a/f8/0e9af81706f347e2dd7507b0e1ea2faa.jpg"
+    },
+    {
+      "id":6,
+      "name_category": "",
+      "title":"",
+      "image":"https://i.pinimg.com/236x/dd/2c/dd/dd2cddd0fd3d0a475e0eb41b6f889df0.jpg"
+    },
+    {
+      "id":6,
+      "name_category": "",
+      "title":"",
+      "image":"https://i.pinimg.com/236x/bb/57/06/bb57069edfb3684753bbf124e58a6971.jpg"
+    },
+    {
+      "id":6,
+      "name_category": "",
+      "title":"",
+      "image":"https://i.pinimg.com/236x/04/35/34/0435340d784c3fff94a8405d77d18d48.jpg"
     }
   ]
 }

@@ -1,0 +1,159 @@
+{
+  "Ads": [
+    {
+      "select_ads": "ADMOB",
+      "select_backup_ads": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "admob_interid": "ca-app-pub-5103609651048934/4636402635",
+      "admob_nativeid": "ca-app-pub-5103609651048934/1429792973",
+      "admob_openid": "ca-app-pub-5103609651048934/9697157620",
+      "interval": 5,
+      "startappid": "1234556",
+      "fan_inter": "",
+      "fan_banner_native": "",
+      "mopub_banner": "",
+      "mopub_inter": "",
+      "applovin_banner": "",
+      "applovin_inter": "",
+      "packagename": "com.itonkid.habibsyechwallpaper"
+    }
+  ],
+  "More":
+  [
+    {
+      "id":1,
+      "title":"Ludo King",
+      "image":"https://lh3.googleusercontent.com/GIa9Ek1a4hyqqulStVT1RC7Mus0K5nOcCaeDpt9sJEekq6lnrSIK7LDrpH0OHlFgwog=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.ludo.king"
+    },
+    {
+      "id":2,
+      "title":"Homescapes",
+      "image":"https://lh3.googleusercontent.com/-mPOu6rWotI9ZLDVnvE3ZqKdTgEfaQaqD5SArpkYwlNJM0fOhJLRfJPpPWACHLezwIQ=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.playrix.homescapes"
+    },
+    {
+      "id":3,
+      "title":"Minecraft",
+      "image":"https://lh3.googleusercontent.com/VSwHQjcAttxsLE47RuS4PqpC4LT7lCoSjE7Hx5AW_yCxtDvcnsHHvm5CTuL5BPN-uRTP=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.mojang.minecraftpe"
+    }
+  ],
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Nature",
+      "image": "https://i.pinimg.com/564x/6c/b4/4d/6cb44d856850800b2b97858ac337e47f.jpg"
+
+    },
+    {
+      "id": 2,
+      "name_category": "Animal",
+      "image": "http://www.123mobilewallpapers.com/wp-content/uploads/2015/09/black_cat_cute_wallpaper.jpg"
+
+    },
+    {
+      "id": 3,
+      "name_category": "Car",
+      "image": "file:///android_asset/image/car.jpg"
+
+    }
+  ],
+
+  "Data":
+  [
+    {
+      "id":1,
+      "name_category": "",
+      "title":"",
+      "image":"https://i.pinimg.com/564x/3a/bc/69/3abc69d8f292792f0b361e24174906ee.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "",
+      "title": "",
+      "image": "https://i.pinimg.com/564x/30/86/b2/3086b263e6af3dafb442a9040f3b79e2.jpg"
+    },
+    {
+      "id":3,
+      "name_category": "",
+      "title":"",
+      "image":"https://i.pinimg.com/564x/6e/23/64/6e236494cba6c551e5e6113100f065d9.jpg"
+    },
+    {
+      "id":4,
+      "name_category": "",
+      "title":"",
+      "image":"https://i.pinimg.com/564x/36/e9/47/36e947d3b677f111fcaf23dfb144b000.jpg"
+    }
+  ,
+    {
+      "id":5,
+      "name_category": "",
+      "title":"",
+      "image":"https://i.pinimg.com/564x/5d/63/90/5d6390ebd5d3f685052c93d7fb213870.jpg"
+    },
+    {
+      "id":6,
+      "name_category": "",
+      "title":"",
+      "image":"https://i.pinimg.com/564x/77/f1/d2/77f1d253407fa380b258f8f420545fb0.jpg"
+    },
+    {
+      "id":7,
+      "name_category": "",
+      "title":"",
+      "image":"https://i.pinimg.com/564x/c5/37/c7/c537c7ea5539da5a0c4f0ad31039cb87.jpg"
+    },
+    {
+      "id":8,
+      "name_category": "",
+      "title":"",
+      "image":"https://i.pinimg.com/564x/8e/ec/f1/8eecf15f989cfa96ee70267a02e0f6f5.jpg"
+    },
+    {
+      "id":9,
+      "name_category": "",
+      "title":"",
+      "image":"https://i.pinimg.com/564x/bc/55/6b/bc556b6a2cda43dafbf1ee791d17cc75.jpg"
+    },
+    {
+      "id":10,
+      "name_category": "",
+      "title":"",
+      "image":"https://i.pinimg.com/564x/28/f2/5e/28f25ea9645216b0e6841ad35e1bacb5.jpg"
+    },
+    {
+      "id":11,
+      "name_category": "",
+      "title":"",
+      "image":"https://i.pinimg.com/564x/2d/97/59/2d9759ef618c2a8ee4f421fad2e7a5e6.jpg"
+    },
+    {
+      "id":12,
+      "name_category": "",
+      "title":"",
+      "image":"https://i.pinimg.com/564x/49/76/cc/4976ccd66086f4d8656a4739a8e05d51.jpg"
+    },
+    {
+      "id":13,
+      "name_category": "",
+      "title":"",
+      "image":"https://i.pinimg.com/564x/b4/c3/14/b4c31478608d52e115e8e6c030810752.jpg"
+    },
+    {
+      "id":14,
+      "name_category": "",
+      "title":"",
+      "image":"https://i.pinimg.com/564x/35/3d/17/353d172b53fe4ba8149c430f7851073e.jpg"
+    },
+    {
+      "id":15,
+      "name_category": "",
+      "title":"",
+      "image":"https://i.pinimg.com/564x/f9/d1/cd/f9d1cd925427f47363b6ad7f346fefad.jpg"
+    }
+  ]
+}

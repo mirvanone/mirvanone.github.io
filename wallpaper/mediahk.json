@@ -5,7 +5,7 @@
       "select_backup_ads":"APPLOVIN-D",
       "main_ads_banner": "ca-app-pub-5103609651048934/1181306533",
       "main_ads_intertitial":"ca-app-pub-5103609651048934/4448621793",
-      "main_ads_reward":"",
+      "main_ads_reward":"ca-app-pub-5103609651048934/9593137261",
       "native_for_admob":"ca-app-pub-5103609651048934/6966973924",
       "backup_ads_banner":"db4d5e8718b97d78",
       "backup_ads_intertitial":"518cd97722c60b52",
@@ -95,7 +95,7 @@
     {
       "id":5,
       "name_category": "",
-      "title":"Dog",
+      "title":"",
       "image":"https://images.unsplash.com/photo-1634425459894-9a5a02bb11b0?ixid=MnwxMjA3fDB8MHxwcm9maWxlLXBhZ2V8NXx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=60.jpg"
     },
     {

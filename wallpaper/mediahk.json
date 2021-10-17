@@ -5,11 +5,9 @@
       "select_backup_ads":"APPLOVIN-D",
       "main_ads_banner": "ca-app-pub-5103609651048934/1181306533",
       "main_ads_intertitial":"ca-app-pub-5103609651048934/4448621793",
-      "main_ads_reward":"ca-app-pub-5103609651048934/9593137261",
       "native_for_admob":"ca-app-pub-5103609651048934/6966973924",
       "backup_ads_banner":"db4d5e8718b97d78",
       "backup_ads_intertitial":"518cd97722c60b52",
-      "backup_ads_reward":"",
       "interval_intertitial": 5,
       "initialize_sdk":"107355779",
       "initialize_sdk_backup_ads":"",
@@ -71,62 +69,62 @@
       "id":1,
       "name_category": "",
       "title":"",
-      "image":"https://images.unsplash.com/photo-1634425460189-a783189ff1c0?ixid=MnwxMjA3fDB8MHxwcm9maWxlLXBhZ2V8MXx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=60.jpg"
+      "image":"https://images.unsplash.com/photo-1634425460189-a783189ff1c0?ixid=MnwxMjA3fDB8MHxwcm9maWxlLXBhZ2V8MXx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2000&q=60.jpg"
     },
     {
       "id": 2,
       "name_category": "",
       "title": "",
-      "image": "https://images.unsplash.com/photo-1634425459916-92d3106b8e53?ixid=MnwxMjA3fDB8MHxwcm9maWxlLXBhZ2V8Mnx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=60.jpg"
+      "image": "https://images.unsplash.com/photo-1634425459916-92d3106b8e53?ixid=MnwxMjA3fDB8MHxwcm9maWxlLXBhZ2V8Mnx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2000&q=60.jpg"
     },
     {
       "id":3,
       "name_category": "",
       "title":"",
-      "image":"https://images.unsplash.com/photo-1634425459873-d77d19c77bfc?ixid=MnwxMjA3fDB8MHxwcm9maWxlLXBhZ2V8M3x8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=60.jpg"
+      "image":"https://images.unsplash.com/photo-1634425459873-d77d19c77bfc?ixid=MnwxMjA3fDB8MHxwcm9maWxlLXBhZ2V8M3x8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2000&q=60.jpg"
     },
     {
       "id":4,
       "name_category": "",
       "title":"",
-      "image":"https://images.unsplash.com/photo-1634425459910-0dd7f9573f30?ixid=MnwxMjA3fDB8MHxwcm9maWxlLXBhZ2V8NHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=60.jpg"
+      "image":"https://images.unsplash.com/photo-1634425459910-0dd7f9573f30?ixid=MnwxMjA3fDB8MHxwcm9maWxlLXBhZ2V8NHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2000&q=60.jpg"
     }
   ,
     {
       "id":5,
       "name_category": "",
       "title":"",
-      "image":"https://images.unsplash.com/photo-1634425459894-9a5a02bb11b0?ixid=MnwxMjA3fDB8MHxwcm9maWxlLXBhZ2V8NXx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=60.jpg"
+      "image":"https://images.unsplash.com/photo-1634425459894-9a5a02bb11b0?ixid=MnwxMjA3fDB8MHxwcm9maWxlLXBhZ2V8NXx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2000&q=60.jpg"
     },
     {
       "id":6,
       "name_category": "",
       "title":"",
-      "image":"https://images.unsplash.com/photo-1634425460191-9902e92a5f8e?ixid=MnwxMjA3fDB8MHxwcm9maWxlLXBhZ2V8Nnx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=60.jpg"
+      "image":"https://images.unsplash.com/photo-1634425460191-9902e92a5f8e?ixid=MnwxMjA3fDB8MHxwcm9maWxlLXBhZ2V8Nnx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2000&q=60.jpg"
     },
      {
       "id":7,
       "name_category": "",
       "title":"",
-      "image":"https://images.unsplash.com/photo-1634425459869-de594dee5ce1?ixid=MnwxMjA3fDB8MHxwcm9maWxlLXBhZ2V8N3x8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=60.jpg"
+      "image":"https://images.unsplash.com/photo-1634425459869-de594dee5ce1?ixid=MnwxMjA3fDB8MHxwcm9maWxlLXBhZ2V8N3x8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2000&q=60.jpg"
     },
      {
       "id":8,
       "name_category": "",
       "title":"",
-      "image":"https://images.unsplash.com/photo-1634425459873-3ec89ac9ca39?ixid=MnwxMjA3fDB8MHxwcm9maWxlLXBhZ2V8OHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=60.jpg"
+      "image":"https://images.unsplash.com/photo-1634425459873-3ec89ac9ca39?ixid=MnwxMjA3fDB8MHxwcm9maWxlLXBhZ2V8OHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2000&q=60.jpg"
     },
      {
       "id":9,
       "name_category": "",
       "title":"",
-      "image":"https://images.unsplash.com/photo-1634425459876-914612a43553?ixid=MnwxMjA3fDB8MHxwcm9maWxlLXBhZ2V8OXx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=60.jpg"
+      "image":"https://images.unsplash.com/photo-1634425459876-914612a43553?ixid=MnwxMjA3fDB8MHxwcm9maWxlLXBhZ2V8OXx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2000&q=60.jpg"
     },
      {
       "id":10,
       "name_category": "",
       "title":"",
-      "image":"https://images.unsplash.com/photo-1634425459891-4b136bd89b3f?ixid=MnwxMjA3fDB8MHxwcm9maWxlLXBhZ2V8MTB8fHxlbnwwfHx8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=60.jpg"
+      "image":"https://images.unsplash.com/photo-1634425459891-4b136bd89b3f?ixid=MnwxMjA3fDB8MHxwcm9maWxlLXBhZ2V8MTB8fHxlbnwwfHx8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=2000&q=60.jpg"
     }
   ]
 }
